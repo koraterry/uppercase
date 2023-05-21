@@ -1,0 +1,6 @@
+def convertToUppercase(text):
+    return text.upper()
+
+string = "hello, world!"
+uppercaseString = convertToUppercase(string)
+print("Uppercase string:", uppercaseString)
